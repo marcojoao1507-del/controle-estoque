@@ -1,2 +1,2 @@
-# controle-estoque
-estoque simples
+# controle-estoque.py
+
